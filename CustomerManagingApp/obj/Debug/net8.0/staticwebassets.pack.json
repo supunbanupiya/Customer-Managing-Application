@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\CustomerManagingApp.bundle.scp.css"
     },
     {
+      "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\cs.jpg",
+      "PackagePath": "staticwebassets\\cs.jpg"
+    },
+    {
       "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\hr.jpg",
+      "PackagePath": "staticwebassets\\hr.jpg"
     },
     {
       "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\js\\site.js",
@@ -243,6 +251,10 @@
     {
       "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\mg.jpg",
+      "PackagePath": "staticwebassets\\mg.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CustomerManagingApp.Microsoft.AspNetCore.StaticWebAssets.props",

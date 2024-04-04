@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VrkrUyZ9NAO/8/8X//7Mc0pRVhX+wsEXi+vjTnCAVKM=",
+  "Hash": "0Sco09bcJl46GJz59Hex4sZs+hCDE2XPNzXCGspQlIg=",
   "Source": "CustomerManagingApp",
   "BasePath": "_content/CustomerManagingApp",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CustomerManagingApp.bundle.scp.css"
     },
     {
+      "Identity": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\cs.jpg",
+      "SourceId": "CustomerManagingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\",
+      "BasePath": "_content/CustomerManagingApp",
+      "RelativePath": "cs.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cs.jpg"
+    },
+    {
       "Identity": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\css\\site.css",
       "SourceId": "CustomerManagingApp",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\hr.jpg",
+      "SourceId": "CustomerManagingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\",
+      "BasePath": "_content/CustomerManagingApp",
+      "RelativePath": "hr.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hr.jpg"
     },
     {
       "Identity": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\js\\site.js",
@@ -1193,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\mg.jpg",
+      "SourceId": "CustomerManagingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2024\\PROJECTS\\April projects\\CustomerManagingApp\\CustomerManagingApp\\wwwroot\\",
+      "BasePath": "_content/CustomerManagingApp",
+      "RelativePath": "mg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mg.jpg"
     }
   ]
 }
